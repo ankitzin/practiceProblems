@@ -11,3 +11,6 @@ def getMinMax(a, n):
     else:
         pass
 getMinMax(a, n)
+
+
+print("Hello world")
