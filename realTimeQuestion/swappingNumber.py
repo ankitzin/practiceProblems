@@ -33,5 +33,3 @@ while last != 0:
     last -= 1
 
 print("".join(li))
-
-# reverseAlternet(inp)
